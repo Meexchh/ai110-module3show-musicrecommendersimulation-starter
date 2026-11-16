@@ -9,3 +9,13 @@ id,title,artist,genre,mood,energy,tempo_bpm,valence,danceability,acousticness
 8,Night Drive Loop,Neon Echo,synthwave,moody,0.75,110,0.49,0.73,0.22
 9,Focus Flow,LoRoom,lofi,focused,0.40,80,0.59,0.60,0.78
 10,Rooftop Lights,Indigo Parade,indie pop,happy,0.76,124,0.81,0.82,0.35
+11,Concrete Crown,Dre Valley,hip hop,confident,0.78,96,0.62,0.85,0.12
+12,Dusty Porch Light,Hollis Ray,country,nostalgic,0.52,102,0.58,0.61,0.67
+13,Moonlit Sonata Redux,Elise Archer,classical,peaceful,0.18,66,0.44,0.22,0.97
+14,Neon Overdrive,Pulse Theory,edm,euphoric,0.96,128,0.88,0.90,0.03
+15,Velvet Hours,Marlowe Skye,r&b,romantic,0.55,88,0.69,0.74,0.34
+16,Iron Cathedral,Black Meridian,metal,aggressive,0.97,168,0.25,0.45,0.04
+17,Island Breeze,Tropic Roots,reggae,laid-back,0.48,82,0.80,0.78,0.41
+18,Cedar and Smoke,Wren Hallow,folk,melancholy,0.30,84,0.33,0.40,0.91
+19,Blue Monday Blues,Otis Marlowe,blues,sad,0.40,70,0.28,0.50,0.62
+20,Calle Sol,Mariposa Luz,latin,joyful,0.80,100,0.90,0.88,0.28
